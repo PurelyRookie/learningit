@@ -12,7 +12,11 @@ Git has a mutable index called stage.
 test101
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 creating a new branch is quick & simple.
 =======
 creating a new branch is quick AND simple.
 >>>>>>> feature1
+=======
+creating a new branch called dev.
+>>>>>>> dev
