@@ -11,4 +11,4 @@ Git has a mutable index called stage.
 
 test101
 
-creating a new branch called dev/
+creating a new branch called dev.
