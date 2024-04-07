@@ -12,6 +12,7 @@ Git has a mutable index called stage.
 <<<<<<< Updated upstream
 test101
 
+<<<<<<< HEAD
 creating a new branch called dev.
 =======
 creating a new branch is quick & simple.
@@ -22,3 +23,6 @@ creating a new branch is quick AND simple.
 creating a new branch called dev.
 
 >>>>>>> Stashed changes
+=======
+creating a new branch called dev.
+>>>>>>> 4bb5a62 (add merge)
