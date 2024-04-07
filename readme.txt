@@ -9,20 +9,4 @@ an update of this txt
 git is a free software
 Git has a mutable index called stage.
 
-<<<<<<< Updated upstream
-test101
-
-<<<<<<< HEAD
 creating a new branch called dev.
-=======
-creating a new branch is quick & simple.
-=======
-creating a new branch is quick AND simple.
->>>>>>> feature1
-=======
-creating a new branch called dev.
-
->>>>>>> Stashed changes
-=======
-creating a new branch called dev.
->>>>>>> 4bb5a62 (add merge)
